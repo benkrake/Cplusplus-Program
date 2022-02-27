@@ -1,0 +1,3 @@
+/*
+Benjamin Krake
+*/#pragma once
